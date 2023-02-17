@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119010811299",
+    "project_id": "resep-e0629",
+    "storage_bucket": "resep-e0629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119010811299:android:dfd304690fdac6486c0e16",
+        "android_client_info": {
+          "package_name": "com.rtmtecno.resepmasakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119010811299-vuqvln42o5mqo9a7i09c53tqsofpmih2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1Uq5wY6kz6zbUPpeGSREe0Nujgd4WfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119010811299-vuqvln42o5mqo9a7i09c53tqsofpmih2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
